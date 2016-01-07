@@ -10,8 +10,8 @@ Bundler.require
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings
 
-  app.name = 'calagator2'
-  app.identifier = 'com.your_domain_here.calagator2'
+  app.name = 'calagator'
+  app.identifier = 'com.your_domain_here.calagator'
 
   app.short_version = '0.1.0'
   # Get version from git
